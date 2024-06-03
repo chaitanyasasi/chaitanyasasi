@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar--01629954/)](www.linkedin.com/in/chaitanya-kumar-3824262b6/)
-[![Website Badge](https://img.shields.io/badge/WebSite-kumar-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-kumar-yellow)]()
+[![Linkedin Badge](https://img.shields.io/badge/-kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar--01629954/)](www.linkedin.com/in/chaitanya-kumar-3824262b6)
+
 
 I'm
 Full Stack Solution Architect
