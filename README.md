@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **chaitanyasasi123gmail.com**
+- 📫 How to reach me **chaitanyasasi123@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
