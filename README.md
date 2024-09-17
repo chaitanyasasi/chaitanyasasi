@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyasasi&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyasasi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://chaitanyasasi.github.io/bio-site/](https://chaitanyasasi.github.io/bio-site/)
+- 👨‍💻 All of my projects are available at [https://chaitanyasasi.github.io/myProfile/](https://chaitanyasasi.github.io/myProfile/)
 
 - 💬 Ask me about **MERN stack**
 
